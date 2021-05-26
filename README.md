@@ -18,5 +18,5 @@ Cell annotation are provided as a matlab mat file with the corresponding encodin
 |Progenitor|4|
 |Oligo|5|
 
-###Temporary missing EGA bam
+### Temporary missing EGA bam
 One of the sample bam file (BT400) is temporary missing in the EGA study [EGAS00001004422](https://ega-archive.org/studies/EGAS00001004422) and can be found [here](https://datahub-262-c54.p.genap.ca/GBM_paper_data/BT400.bam) as long with it index file [here](https://datahub-262-c54.p.genap.ca/GBM_paper_data/BT400.bam.bai).
